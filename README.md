@@ -1,8 +1,8 @@
-# First Flutter App
+# Moti-flutter-app 🚀
 
 Welcome to my first Flutter project!
 
-This app is a part of my journey into mobile app development. As a beginner, I'm exploring the fundamentals of Flutter and Dart to create a simple, yet functional mobile application.
+**Moti-flutter-app** is my first Flutter mobile application — built as part of my journey into mobile development using Flutter and Dart. This project explores the fundamentals of building cross-platform apps with Flutter, including UI creation, navigation, and basic app structure.
 
 ## Getting Started
 
@@ -13,5 +13,6 @@ Contact
 Email: motiabe8@gmail.com
 
 Phone: +251 992172455
+
 
 
