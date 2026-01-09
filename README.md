@@ -23,8 +23,6 @@ This project uses:
 
 
 
-
-
 ## 🚀 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -54,6 +52,7 @@ Made with ❤️ by Moti Abe
 ✉️ Email: motiabe8@gmail.com
 
 📱 Phone: +251 992172455
+
 
 
 
