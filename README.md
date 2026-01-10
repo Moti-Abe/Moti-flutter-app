@@ -54,6 +54,8 @@ Made with ❤️ by Moti Abe
 📱 Phone: +251 992172455
 
 
+## Author
+Moti Abe
 
 
 
