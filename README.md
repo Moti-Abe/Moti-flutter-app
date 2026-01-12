@@ -49,13 +49,15 @@ https://flutter.dev/docs/get-started/install
 
 Made with ❤️ by Moti Abe
 
-✉️ Email: motiabe8@gmail.com
+- Email: motiabe8@gmail.com
 
-📱 Phone: +251 992172455
+- Phone: +251 992172455
 
+- telegram handle: @Moti_Abe
 
 ## Author
 Moti Abe
+
 
 
 
