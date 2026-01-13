@@ -11,8 +11,6 @@ This project uses:
 
 - **Flutter** — UI toolkit for building natively compiled applications
 - **Dart** — Programming language optimized for apps
-- _(Add more libraries and packages here once you start using them!)_
-
 
 ## 📌 Features
 
@@ -57,6 +55,7 @@ Made with ❤️ by Moti Abe
 
 ## Author
 Moti Abe
+
 
 
 
