@@ -38,10 +38,10 @@ https://flutter.dev/docs/get-started/install
 
 ### 🧾 Installation
 
-1. **Clone this repository** --> git clone https://github.com/Moti-Abe/Moti-flutter-app.git
+1. **Clone this repository** ----------> git clone https://github.com/Moti-Abe/Moti-flutter-app.git
 2. Navigate into the project folder  --> cd Moti-flutter-app
-3. Get dependencies  --> flutter pub get
-4. Run the app --> flutter run
+3. Get dependencies  ------------------> flutter pub get
+4. Run the app ------------------------> flutter run
 
 ## Contact
 
@@ -53,6 +53,7 @@ Made with ❤️ by Moti Abe
 
 ## Author
 Moti Abe
+
 
 
 
